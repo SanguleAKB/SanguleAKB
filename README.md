@@ -2,7 +2,7 @@
 
 <h3>Data Scientist at HiCounselor</h3>
 
-- 🔭 Working on: [AIComplaintHub](https://github.com/SanguleAKB/AIComplaintHub)  
+- 🔭 Learning: **AWS Certified Machine Learning Engineer - Associate**
 - 🌱 Learning: **Generative AI, GCP ML Engineer**  
 - 👯 Open to collaborate on: [AIComplaintHub](https://github.com/SanguleAKB/AIComplaintHub)  
 - 💬 Ask me about: **Generative AI, Machine Learning**  
