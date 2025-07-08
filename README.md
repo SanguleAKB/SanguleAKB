@@ -1,6 +1,6 @@
 <h1 align="center">🚀Hi 👋, I'm Aniruddha Sangule</h1>
 
-<h3>A passionate Machine Learning Engineer from India</h3>
+<h3>Data Scientist at HiCounselor</h3>
 
 - 🔭 Working on: [AIComplaintHub](https://github.com/SanguleAKB/AIComplaintHub)  
 - 🌱 Learning: **Generative AI, GCP ML Engineer**  
