@@ -1,6 +1,6 @@
 <h1 align="center">🚀Hi 👋, I'm Aniruddha Sangule</h1>
 
-<h3>Data Scientist at HiCounselor</h3>
+<h3>Data Scientist</h3>
 
 - 🔭 Learning: **AWS Certified Machine Learning Engineer - Associate**
 - 🌱 Learning: **Generative AI, GCP ML Engineer**  
